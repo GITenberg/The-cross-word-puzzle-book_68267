@@ -1,0 +1,33 @@
+_repo: The-cross-word-puzzle-book_68267
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Petherbridge, Margaret
+    gutenberg_agent_id: '54687'
+    url: http://www.gutenberg.org/2009/agents/54687
+  - agent_name: Hartswick, F. Gregory
+    gutenberg_agent_id: '54686'
+    url: http://www.gutenberg.org/2009/agents/54686
+  - agent_name: Buranelli, Prosper
+    gutenberg_agent_id: '54685'
+    url: http://www.gutenberg.org/2009/agents/54685
+description: ''
+gutenberg_issued: '2022-06-09'
+identifiers:
+  gutenberg: '68267'
+language: en
+pgterms:marc904: https://archive.org/details/crosswordpuzzleb00unse/page/n5/mode/2up
+pgterms:marc905: 20210213142116buranelli
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: United States :The Plaza Publishing Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The cross word puzzle book
+url: http://www.gutenberg.org/ebooks/68267
