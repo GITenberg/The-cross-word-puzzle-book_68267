@@ -1,5 +1,8 @@
 _repo: The-cross-word-puzzle-book_68267
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Petherbridge, Margaret
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '54685'
     url: http://www.gutenberg.org/2009/agents/54685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68267#The-cross-word-puzzle-book
 gutenberg_issued: '2022-06-09'
 identifiers:
   gutenberg: '68267'
